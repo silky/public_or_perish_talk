@@ -45,6 +45,7 @@ In the following we will explore two topics:
     - Collaboration and openness, and
     - Interactivity and reproducibility.
 
+Let's start with some examples.
 
 ***---- Click ----***
 
@@ -61,11 +62,7 @@ First idea: `Collaboration and openness`
 -->
 
 This is Paul Erdös; and some other Australian mathematician ... I'm not sure
-what became of him. (Joke: That is, of course, Terry Tao.) A quote
-Erdös is "My brain is open".
-
-***---- Click ----***
-
+what became of him. (Joke: That is, of course, Terry Tao.) 
 
 Erdös is famous for being intensely collaborative - he would show up on
 doorsteps of mathematicians, and announce "My brain is open". Subsequently,
@@ -121,57 +118,60 @@ at a glance you can see it contains folders and files, updated at different
 times by perhaps different people.
 
 This collaboration was recognised as groundbreaking by Wired, and other news
-agencies.
+agencies. Even more interesting is that it is a very innovative project coming
+from well-established mathematicians at the IAS.
+
+An interesting section from the article is
 
 ***---- Click ----***
+
+***Read article quote***
+
+
+***---- Click ----***
+
 
 Okay, so we can see that there is a scale of openness. The least "awesome" is
 simply publishing finished products in existing journals. On the other hand, we
 can imagine doing all the work of research - workings/journals/ideas - in the
-public, and inviting collaborations by being completely open.
+public, and inviting collaborations by being completely open - i.e. be more
+Erdös/Tao-like.
 
 To get a sense of this; let's go back to Paul Erdös, and bring him into the
 modern world.
 
 ***---- Click ----***
 
-
-Here's a modern take on how Paul Erdös might've gone about life today.
-
 ***GitHub Paul Edrös***
 
-Each paper Erdös has is a "repository" - a collection of all the files
-related to the particular work.
+Each paper Erdös has is a "repository" - as before, a collection of all the
+files related to the particular work.
 
 Notice also that he is contributing to other repositores, and note
 further that all these repositories are publically accessible. Anyone
-can contribute, and submit what are called "pull requests" - which are
-a formal mechanism for suggesting changes; and everything is tracked
-by the version control system.
+can contribute, and submit "pull requests" - which, as before, are
+a formal mechanism for suggesting changes. 
 
-So let's look in a bit of detail at the possibilities here.
+Let's look in a bit of detail at the possibilities here.
+
+***---- Click ----***
+
+Continuing with what we can do on GitHub; one option I personally like,
+is to make all our research ideas public. 
+
 
 ***---- Click ----***
 
 
-We can simply just stick to what we do currently - work largely in private,
-and publish in journals, or we can tend towards being more awesome - more
-Erdös/Tao/etc-like - and be as open as possible.
-
-We can show all our workings, we can mainain online journals about what we are
-working on (what Terry Tao does with his blog), and,
-
-***---- Click ----***
-
-
-we can list the topics we'd like to research.
-
-Anyone can comment on these issues. They can see what I am interested in,
-and maybe if someone else is interested in the same things, they can contact
-me and we would work together on a thing.
+Why? Well, what I really want in research life is to work on interesting things
+with people that are also interested in those things. By making my list public,
+anyone can see what I care about, and anyone can come and talk to me about
+those things. If you do it, that means I can see what you like; and maybe talk
+to you. Or just suggest things you didn't think of.
 
 Imagine being able to see such a list for your friends. Your colleagues,
 your supervisor; the leading people in your field - Everyone!
+
 
 ***---- Click ----***
 
