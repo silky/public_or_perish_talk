@@ -220,15 +220,9 @@ allows me to *run it immediately*.
 
 Let's review for a moment. We've seen that there are already existing,
 quite serious and legitimate open and collaborative projects. We've seen some
-tooling support and openness and collaboration
+tooling support and openness and collaboration.
 
 So let's now talk a bit about reproducibility and interactivity.
-
-The point here is to observe that openness facilitates collaboration. But
-openness alone isn't enough. We need tools to make the process easy and
-intuitive.
- 
-<!-- ???: More ramblings? -->
 
 
 ***---- Click ----***
