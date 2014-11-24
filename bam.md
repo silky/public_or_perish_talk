@@ -1,21 +1,14 @@
 Collaboration and Openess Everywhere!
 ==
 
-
--- TODO: Explain tests/builds
 -- TODO: Mention why being public and open is a good idea
--- TODO: Reproducibility studies
--- TODO: Tell what you'll say, say it, then summarise it
--- TODO: 
-
 
 Imagine waking up on Christmas morning. You run downstairs, rush to the tree
-and you see a present with your name on it! Awesome! You open it up,
+and you see a present with your name on it! Awesome! 
 
 ***---- Click ----***
 
-
-and inside, is this ...
+You open it up, and inside, is this ...
 
 ***---- Click ----***
 
@@ -62,8 +55,8 @@ This is Paul Erdös; and some other Australian mathematician ... I'm not sure
 what became of him. (Joke: That is, of course, Terry Tao.) 
 
 Erdös is famous for being intensely collaborative - he would show up on
-doorsteps of mathematicians, and announce "My brain is open". Subsequently,
-they would collaborate on some work, and Erdös would leave to go
+doorsteps of other mathematicians, and announce "My brain is open".
+Subsequently, they would collaborate on some work, and Erdös would leave to go
 work with someone else.
 
 Terry Tao, also, is doing excellent work in collaborative mathematics, with
@@ -79,14 +72,18 @@ worked on (< 10, say).
 Polymath8 was about reducing the "prime gap" number, that was first set at 70
 million by Yitang Zhang last year.
 
+Several people working on this problem together, including computer scientists
+working with Mathematicians, were able to lower the gap to below 5,500.
+
 Another quick example of a collaborative research-level effort is the
 nLab.
 
 ***---- Click ----***
 
 
-The nLab, as it says, is a collaborative wiki. It's incredibly detailed in 
-certain areas (higher category theory, mathematical physics.)
+The nLab, as it says, is a collaborative wiki - i.e. a community-editable
+website. It's incredibly detailed in certain areas (higher category theory,
+mathematical physics.)
 
 In it's current form, it's not hugely interactive (it's "just a wiki"), but
 even still; if this kind of thing existed for all fields; I'd dare to suggest
@@ -127,7 +124,7 @@ book is a GitHub repository, and it looks like this,
 at a glance you can see it contains folders and files, updated at different
 times by perhaps different people.
 
-This collaboration was recognised as groundbreaking by Wired, and other news
+The HoTT collaboration was recognised as groundbreaking by Wired, and other news
 agencies. Even more interesting is that it is a very innovative project coming
 from well-established mathematicians at the IAS.
 
@@ -162,9 +159,8 @@ further that all these repositories are publically accessible. Anyone
 can contribute, and submit "pull requests" - which, as before, are
 a formal mechanism for suggesting changes. 
 
-Let's look in a bit of detail at the possibilities here.
-
-One thing we can do here is to make all our research ideas public. 
+Continuing further, we can do here is to make all our research ideas
+public. 
 
 ***---- Click ----***
 
@@ -201,7 +197,8 @@ ecosystems around website like the arXiv; namely SciRate
 ***---- Click ----***
 
 
-Another example of this idea is the Sage Math Cloud.
+Continuing further with collaborative computing, we also have the Sage Math
+Cloud.
 
 ***---- Click ----***
 
