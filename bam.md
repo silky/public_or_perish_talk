@@ -1,6 +1,17 @@
 Collaboration and Openess Everywhere!
 ==
 
+
+-- TODO: Maybe use the "HoTT" book
+-- TODO: Mention the outputs of HoTT and the Polynmath project
+-- TODO: Explain repository; try not to mention any jargon
+-- TODO: Explain tests/builds
+-- TODO: Mention why being public and open is a good idea
+-- TODO: Reproducibility studies
+-- TODO: Tell what you'll say, say it, then summarise it
+-- TODO: 
+
+
 Imagine waking up on Christmas morning. You run downstairs, rush to the tree
 and you see a present with your name on it! Awesome! You open it up,
 
@@ -24,12 +35,16 @@ whereas maybe you were hoping it would be this ...
 
 I claim this reflects the current sophistication of the dominant form of
 scientific publishing today. I believe that, *right now*, the tools and
-technologies exist to change the research process into an open, interactive
+technologies exist to change the research process into an interactive, open,
 system where we can achieve the fundamental goal of sharing understanding,
 solving interesting problems, having fun, and just generally working together
 to make the world a better place.
 
-In the following we will explore these ideas, together.
+In the following we will explore two topics:
+
+    - Collaboration and openness, and
+    - Interactivity and reproducibility.
+
 
 ***---- Click ----***
 
@@ -46,27 +61,82 @@ First idea: `Collaboration and openness`
 -->
 
 This is Paul Erdös; and some other Australian mathematician ... I'm not sure
-what became of him. (Joke: That is, of course, Terry Tao.)
+what became of him. (Joke: That is, of course, Terry Tao.) A quote
+Erdös is "My brain is open".
 
 ***---- Click ----***
 
 
-Erdös is famous for being intensely collaborative. Terry Tao, also, is doing
-excellent work in collaborative mathematics, with the "Polymath Project".
+Erdös is famous for being intensely collaborative - he would show up on
+doorsteps of mathematicians, and announce "My brain is open". Subsequently,
+they would collaborate on some work, and Erdös would leave to go
+work with someone else.
 
+Terry Tao, also, is doing excellent work in collaborative mathematics, with
+the "Polymath Project".
 
 ***---- Click ----***
+
 
 The Polymath project is a platform for collaboration on research-level
 mathematical problems, with a very small number of projects being actively
 worked on (< 10, say).
 
-This is cool, and we can go further.
+Polymath8 was about reducing the "prime gap" number, that was first set at 70
+million by Yitang Zhang last year.
+
+This is cool. Let's look at another example.
 
 ***---- Click ----***
 
 
-Here's a modern take on how Paul Erdös collaborations.
+This is the Homotopy Type Theory book - or "HoTT" for short. It was
+collaboratively written in 2012/13, partly by people working at the IAS.
+
+The interesting thing about this book (other than it's inherent interestingness)
+is that it was written largely online, in the public - completely openly.
+
+They did this using a website called "GitHub",
+
+***---- Click ----***
+
+
+and a software package called "Git". "Git" is what's referred to as a "version
+control system" or "source control system". We won't get into details here; but
+this program - Git - lets you work on the same files as other people, i.e.
+a particular TeX file, or piece of code, or presentation, and share the changes
+you make in a structured way.
+
+This "GitHub" website is the place where changes are sent to, and grabbed from,
+by all members of the team. If you're familiar with "Dropbox", you can think of
+GitHub is a more-structured version of that.
+
+While with Dropbox you sync folders, with GitHub you sync "repositories". The HoTT
+book is a GitHub repository, and it looks like this,
+
+***---- Click ----***
+
+
+at a glance you can see it contains folders and files, updated at different
+times by perhaps different people.
+
+This collaboration was recognised as groundbreaking by Wired, and other news
+agencies.
+
+***---- Click ----***
+
+Okay, so we can see that there is a scale of openness. The least "awesome" is
+simply publishing finished products in existing journals. On the other hand, we
+can imagine doing all the work of research - workings/journals/ideas - in the
+public, and inviting collaborations by being completely open.
+
+To get a sense of this; let's go back to Paul Erdös, and bring him into the
+modern world.
+
+***---- Click ----***
+
+
+Here's a modern take on how Paul Erdös might've gone about life today.
 
 ***GitHub Paul Edrös***
 
@@ -96,12 +166,12 @@ working on (what Terry Tao does with his blog), and,
 
 we can list the topics we'd like to research.
 
-Imagine being able to see such a list for your friends. Your colleagues,
-your supervisor; the leading people in your field - Everyone!
-
 Anyone can comment on these issues. They can see what I am interested in,
 and maybe if someone else is interested in the same things, they can contact
 me and we would work together on a thing.
+
+Imagine being able to see such a list for your friends. Your colleagues,
+your supervisor; the leading people in your field - Everyone!
 
 ***---- Click ----***
 
@@ -142,7 +212,7 @@ Another example of this idea is the Sage Math Cloud.
 
 
 This is a picture of a Sage worksheet that Christian Perfect (blogs
-for the "Aperiodical" website). He was attempting to verify some conclusions
+for the "Aperiodical" website) put up. He was attempting to verify some conclusions
 drawn by an article about the relationship between salaries and programming languages.
 The details aren't what I want to talk about here - only to observe that this
 is a document that anyone (on the SageMathCloud) can view, and use to check Christian's
@@ -153,7 +223,7 @@ allos me to *run it immediately*.
 
 So let's now talk a bit about reproducibility and interactivity.
 
-The point here is to observe that openness facilitates collaborativity. But
+The point here is to observe that openness facilitates collaboration. But
 openness alone isn't enough. We need tools to make the process easy and
 intuitive.
  
@@ -216,6 +286,9 @@ side contains explanations, but no working.
 These two things can, infact, be merged.
 
 Indeed, this idea is actually very old!
+
+--- Click ---
+
 
 Probably the worlds most famous living computer scientist - Donald Knuth - advocated
 strongly an idea he calls "Literate Programming".
@@ -290,4 +363,4 @@ The new imperative is this.
 
 ***Public or perish!***
 
-Thanks.
+
