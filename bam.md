@@ -2,9 +2,6 @@ Collaboration and Openess Everywhere!
 ==
 
 
--- TODO: Maybe use the "HoTT" book
--- TODO: Mention the outputs of HoTT and the Polynmath project
--- TODO: Explain repository; try not to mention any jargon
 -- TODO: Explain tests/builds
 -- TODO: Mention why being public and open is a good idea
 -- TODO: Reproducibility studies
@@ -87,6 +84,7 @@ nLab.
 
 ***---- Click ----***
 
+
 The nLab, as it says, is a collaborative wiki. It's incredibly detailed in 
 certain areas (higher category theory, mathematical physics.)
 
@@ -166,14 +164,12 @@ a formal mechanism for suggesting changes.
 
 Let's look in a bit of detail at the possibilities here.
 
-***---- Click ----***
-
-Continuing with what we can do on GitHub; one option I personally like,
-is to make all our research ideas public. 
-
+One thing we can do here is to make all our research ideas public. 
 
 ***---- Click ----***
 
+
+(these are my ideas; not Erdös')
 
 Why? Well, what I really want in research life is to work on interesting things
 with people that are also interested in those things. By making my list public,
@@ -186,6 +182,7 @@ your supervisor; the leading people in your field - Everyone!
 
 We can go further.
 
+
 ***---- Click ----***
 
 
@@ -194,7 +191,15 @@ is one that I happen to like because it is backed by "Git" - the version
 control system that "GitHub" also uses, and there is a way to connect the two.
 
 Furthermore, they are attempting to add an element of interactivity
-into the papers, by allowing one to use IPython in the middle of a document.
+into the papers, by allowing one to use IPython in the middle of a document (more
+on this later.)
+
+And of course; supposing we produce a PDF, we know that we can submit it
+to a so-called "preprint" server; like the arXiv. There are becoming sophisticated
+ecosystems around website like the arXiv; namely SciRate
+
+***---- Click ----***
+
 
 Another example of this idea is the Sage Math Cloud.
 
@@ -208,8 +213,14 @@ The details aren't what I want to talk about here - only to observe that this
 is a document that anyone (on the SageMathCloud) can view, and use to check Christian's
 workings. I.e. instead of providing *only* a graph, he provided the actual code
 used to generate the graph; and not only that - it's provide on a platform that
-allos me to *run it immediately*.
+allows me to *run it immediately*.
 
+***---- Click ----***
+
+
+Let's review for a moment. We've seen that there are already existing,
+quite serious and legitimate open and collaborative projects. We've seen some
+tooling support and openness and collaboration
 
 So let's now talk a bit about reproducibility and interactivity.
 
