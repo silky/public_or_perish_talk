@@ -82,7 +82,19 @@ worked on (< 10, say).
 Polymath8 was about reducing the "prime gap" number, that was first set at 70
 million by Yitang Zhang last year.
 
-This is cool. Let's look at another example.
+Another quick example of a collaborative research-level effort is the
+nLab.
+
+***---- Click ----***
+
+The nLab, as it says, is a collaborative wiki. It's incredibly detailed in 
+certain areas (higher category theory, mathematical physics.)
+
+In it's current form, it's not hugely interactive (it's "just a wiki"), but
+even still; if this kind of thing existed for all fields; I'd dare to suggest
+they could all be advanced significantly.
+
+Let's look at another example.
 
 ***---- Click ----***
 
@@ -172,28 +184,6 @@ to you. Or just suggest things you didn't think of.
 Imagine being able to see such a list for your friends. Your colleagues,
 your supervisor; the leading people in your field - Everyone!
 
-
-***---- Click ----***
-
-
-And finally we can submit our finished pieces to completely open "journals"
-- my personal favourite being the *arXiv*, which can be accessed through
-*SciRate* - probably my favourite website of all time.
-
-
-For an example of this happening for a research-level work, consider the HoTT
-book, which was written collaboratively on GitHub,
-
-***---- Click ----***
-
-
-
-Note that a lot of these sites have a social aspect. On GitHub, you can
-"follow" people, in order to stay up to date with what they are doing. You
-can comment on their work, and - as mentioned - submit changes. On SciRate
-you can see what other researchers in your field are interested in, and
-you can see which papers are popular (this may or may not be a feature).
-
 We can go further.
 
 ***---- Click ----***
@@ -204,7 +194,7 @@ is one that I happen to like because it is backed by "Git" - the version
 control system that "GitHub" also uses, and there is a way to connect the two.
 
 Furthermore, they are attempting to add an element of interactivity
-into the papers, which is undeniably good.
+into the papers, by allowing one to use IPython in the middle of a document.
 
 Another example of this idea is the Sage Math Cloud.
 
