@@ -231,12 +231,15 @@ Second idea: `Reproducibility and interactivity`
 --
 
 <!--
-        Key idea: You need to make everything public, it should
-            all "work" together; i.e. it should pass tests, be
-            installable, etc.
+    Key idea: You need to make everything public, it should
+        all "work" together; i.e. it should pass tests, be
+        installable, etc.
 -->
 
-Reproducibility is necessary.
+Reproducibility is necessary. The ultimate way to show someone cares about 
+your work is for them to try and re-use it. They means that "the idea"
+should work; and that - importantly - you have conveyed enough information
+to help anyone get it to work.
 
 The idea is; given some particular work, can you re-derive all the results
 that they have obtained?
@@ -264,7 +267,8 @@ This website is quite recent, and it represents the work of a few people,
 who have read some specific papers, and their attempts at verifying the
 results obtained.
 
-Here's an example.
+Let's take a look at one.
+
 
 ***---- Click ----***
 
@@ -282,7 +286,7 @@ These two things can, infact, be merged.
 
 Indeed, this idea is actually very old!
 
---- Click ---
+***---- Click ----***
 
 
 Probably the worlds most famous living computer scientist - Donald Knuth - advocated
@@ -291,6 +295,15 @@ strongly an idea he calls "Literate Programming".
 The key idea is to write explanations with the code that accompanies their
 implementation. This is naturally applicable to papers insofaras they almost entirely
 consist of explanations, and no implementations.
+
+There are several Haskell books on Mathematics that use this technique, for example,
+
+***---- Click ----***
+
+
+this is actually a blog post (that will later become a book). But the code for
+the blogpost is actually a *Haskell program*, that can be run on your computer.
+
 
 Mathematica - probably software everyone here is familiar with - adopts this
 idea in a ambitious way. To refresh your memory, a very basic example is this.
@@ -313,7 +326,7 @@ interactive, as well as explanatory. We can provide implementations of our ideas
 or little exploratory tools that people can use to explore our proofs and
 definitions.
 
-**This** is the future that I want to see for academic research.
+**This** is the future that I want to see for academic research. 
 
 Where, when a paper may provide a series of definitions, there could also be
 an interactive example that let's you see how these definitions work together.
@@ -337,17 +350,19 @@ The new standard for a "paper" could look like this:
 where inside we have:
 
     1. The paper itself, as an IPython notebook,
-    2. Tests and a build, to make sure the code works,
+    2. (if there is code), then Tests and a build, to make sure the code works,
     3. A license so people know how to use it,
     4. Talks related to the paper (maybe?)
+
+***---- Click ----***
 
 and also perhaps a "Release" of a PDF version, (which can be automatically
 generated from the IPython notebook),
 
+
 ***---- Click ----***
 
-
-So now we have this.
+So let's wrap up. ***Read things***.
 
 The old imperative was "publish or perish". That's out now.
 
@@ -357,5 +372,4 @@ The new imperative is this.
 
 
 ***Public or perish!***
-
 
